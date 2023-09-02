@@ -1,0 +1,7 @@
+# Environnements
+localEnv/
+
+.~lock*
+# tmp.ipynb
+
+
